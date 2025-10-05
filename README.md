@@ -74,18 +74,7 @@ Run the Flask application locally:
 python app.py
 ```
 
-### GitHub Pages Deployment
 
-This project can be deployed to GitHub Pages as a static site:
-
-1. Push your code to GitHub
-2. The GitHub Actions workflow will automatically generate the static site and deploy it to GitHub Pages
-3. Your site will be available at: `https://anup2702.github.io/world-population-analysis/`
-
-To manually generate the static site:
-```
-python generate_static_site.py
-```
 
 ## Contributing
 
