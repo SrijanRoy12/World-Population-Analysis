@@ -1,0 +1,6 @@
+flask==2.0.1
+pandas>=1.4.0
+numpy>=1.22.0
+matplotlib
+seaborn
+plotly
